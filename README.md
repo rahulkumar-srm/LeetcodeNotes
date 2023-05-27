@@ -1,4 +1,4 @@
 # LeetcodeNotes
 
 Sliding Window
-  - 1208. Get Equal Substrings Within Budget
+  1. 1208 -> Get Equal Substrings Within Budget
